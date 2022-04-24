@@ -92,3 +92,4 @@ document.write("\n Nombre: Kikab Joaquin Francisco Yat Paau \n No. Carné: 18001
 
 console.log("Nombre: Kikab Joaquin Francisco Yat Paau");
 console.log("No. Carné: 18001573");
+console.log("Estoy probando de nuevo este ejercicio para recordarme de GIT, fecha 23-abril-2022");
